@@ -66,3 +66,16 @@ myVariable = 42;
 // far in this document and then print the new values all with a single
 // console.log line.
 // YOUR CODE HERE
+
+
+// You can also use a variable's previous value to set a new one.
+// Consider the following:
+myVariable = 2;
+myVariable = myVariable + 83;
+// In math it wouldn't make sense to write "x = x + 83"
+// but here it's perfectly valid.
+// The right side of the line (right of the equals sign) is evaluated first.
+// Then the result of that is saved back to myVariable.
+
+// Below set "anotherVariable" to your favorite number and then square it by assigning it to a multiple of itself.
+// YOUR CODE HERE
