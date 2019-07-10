@@ -3,7 +3,6 @@
 Booleans can be difficult. The description in the JavaScript Grammar Guide is lackluster so I'll link a couple of resources below if you weren't paying attention in class:
 
 - [Introduction to Truth Tables and Boolean Algebra](https://medium.com/i-math/intro-to-truth-tables-boolean-algebra-73b331dd9b94) - Use this if you don't have much time and you just want to get to the good parts. Truth tables are very useful for understanding the foundations of boolean values.
-- [Introduction to Truth Tables and Boolean Algebra](https://medium.com/i-math/intro-to-truth-tables-boolean-algebra-73b331dd9b94) - Use this if you don't have much time and you just want to get to the good parts. Truth tables are very useful for understanding the foundations of boolean values.
 - [W3 Schools Logical Comparators](https://www.w3schools.com/js/js_comparisons.asp) -- A comprehensive explanation of operators and logic.
 - [Crash Course Computer Science](https://www.youtube.com/watch?v=gI-qXk7XojA) - A low level introduction to boolean values and their representations in real circuitry. Take a look if you want a real low level understanding of how computers work..
 
