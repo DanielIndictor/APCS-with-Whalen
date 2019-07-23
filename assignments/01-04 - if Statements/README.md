@@ -4,7 +4,8 @@
 
 - [MDN tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 - [W3Schools tutorial](https://www.w3schools.com/js/js_if_else.asp)
-- [If statement examples]()https://www.afterhoursprogramming.com/tutorial/javascript/if-statements-js/)
+- [If statement examples](https://www.afterhoursprogramming.com/tutorial/javascript/if-statements-js/)
+
 # Syntax
 Vanilla `if` statement:
 ```
