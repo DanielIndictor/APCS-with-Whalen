@@ -6,7 +6,8 @@
 - [W3Schools tutorial](https://www.w3schools.com/js/js_if_else.asp)
 - [If statement examples](https://www.afterhoursprogramming.com/tutorial/javascript/if-statements-js/)
 
-# Syntax
+## Syntax
+
 Vanilla `if` statement:
 ```
 if (CONDITION)
