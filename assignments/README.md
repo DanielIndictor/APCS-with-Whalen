@@ -8,6 +8,7 @@ Here are all the lessons put together for Mr. Whalen's Computer Science Curricul
 1. My First Variables
 1. Booleans
 1. if Statements
+1. DOM
 1. Objects
 1. Functions
 1. this Keyword
