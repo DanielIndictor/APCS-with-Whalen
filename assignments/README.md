@@ -12,6 +12,7 @@ Here are all the lessons put together for Mr. Whalen's Computer Science Curricul
 1. Loops
 1. Objects
 1. Functions
+1. let var const
 1. this Keyword
 1. Closures
 
