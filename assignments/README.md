@@ -9,9 +9,10 @@ Here are all the lessons put together for Mr. Whalen's Computer Science Curricul
 1. Booleans
 1. if Statements
 1. DOM
-1. Loops
 1. Objects
 1. Arrays
+1. Loops
+1. Advanced Loops
 1. Functions
 1. let var const
 1. this Keyword

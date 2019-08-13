@@ -99,28 +99,6 @@ for (let i = 0; i <= 3; i++)
 
 Try running the above piece of code in your browser. Notice h ow the inner loop prints the status of `j` multiple times between statuses of `i`.
 
-## Simpler loops! (`for in` and `for of`)
-
-Javascript provides syntax for common actions. Say you want to print the properties of an object. For this you would use a `for ... in` loop. The syntax for this is as follows:
-
-```javascript
-const myObject = {color: "red", age: 2000, firstName: "Santa", lastName: "Claus"}
-for (property in myObject)
-{
-  console.log("myObject has property \"" + 
-              property + "\" with value " + myObject[property]);
-}
-```
-
-The output will be:
-
-```
-myObject has property "color" with value red
-myObject has property "age" with value 2000
-myObject has property "firstName" with value Santa
-myObject has property "lastName" with value Claus
-```
-
 ## A word on formatting
 
 You may have noticed that within "blocks" of code text is indented. This is a standard practice that you must follow to keep your code maintainable. If I or Mr. Whalen catch you not indenting your code he _will_ lower your grade. He'll also make fun of you in front of the entire class.
